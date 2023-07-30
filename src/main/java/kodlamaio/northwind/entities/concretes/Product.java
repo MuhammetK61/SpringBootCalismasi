@@ -26,6 +26,7 @@ public class Product {
     private String quantityPerUnit;
 
     public Product(){};
+    // Bu bir deneme yazısıdır.
 
     public Product(int id, int categoryId, String productName, double unitPrice, short unitsInStock, String quantityPerUnit) {
         super();
