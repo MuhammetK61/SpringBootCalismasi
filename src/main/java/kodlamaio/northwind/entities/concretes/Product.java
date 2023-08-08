@@ -1,7 +1,7 @@
 package kodlamaio.northwind.entities.concretes;
 
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 // Entity anotasyonu bir Java Class'ımızın persist class olduğunu belirtir.
 // Hibernate bu anotasyonu gördüğü an veritabanında bir tablo oluşturacağını bilir.
